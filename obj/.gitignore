@@ -1,0 +1,8 @@
+# Carpetas y archivos que no queremos subir al repositorio
+bin/
+obj/
+*.user
+.vscode/
+.DS_Store
+appsettings.json
+appsettings.*.json
